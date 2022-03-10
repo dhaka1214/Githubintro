@@ -8,3 +8,6 @@ Cucumbers
 Raddis
 Walnuts
 eggs
+milk
+chicken
+fish
