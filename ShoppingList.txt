@@ -4,3 +4,5 @@ Cherries
 Carrots
 Bananans
 Cereal
+Cucumbers
+Raddis
